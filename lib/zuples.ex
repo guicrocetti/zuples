@@ -13,7 +13,6 @@ defmodule Zuples do
   `:"💩".
   """
 
-
   @ok_emoji Application.compile_env!(:zuples, :ok_emoji)
   @error_emoji Application.compile_env!(:zuples, :error_emoji)
 
